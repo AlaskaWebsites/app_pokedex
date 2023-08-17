@@ -6,7 +6,7 @@ Criando uma pokedex consumindo API do site do Pokemon para o meu front-end com V
 
 # Recursos
 
-* O aplicativo foi desenvolvido com JavaScrip, CSS, HTML, Vue, Bulma.
+* O aplicativo foi desenvolvido com JavaScrip, CSS, HTML, Vue e Bulma.
 
 # Uso
 
